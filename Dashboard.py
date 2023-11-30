@@ -20,7 +20,7 @@ st.markdown(
     - **Berikut adalah paparan singkat mengenai raw dataset yang saya gunakan :**
 """
 )
-DATA_URL = ('bikesharing/data/hour.csv')
+DATA_URL = ('data/hour.csv')
 def load_data():
     data = pd.read_csv(DATA_URL)
     pd.set_option('display.max_columns', None)
