@@ -8,9 +8,9 @@ import plotly.express as px
 st.title('CUACA v CUSTOMER')
 
 #LOAD DATAFRAME
-viz_tempscale = pd.read_csv('bikesharing/viz/temp_scale.csv')
-viz_seasonscale = pd.read_csv('bikesharing/viz/season_scale.csv')
-viz_lineplot = pd.read_csv('bikesharing/viz/lineplot.csv')
+viz_tempscale = pd.read_csv('viz/temp_scale.csv')
+viz_seasonscale = pd.read_csv('viz/season_scale.csv')
+viz_lineplot = pd.read_csv('viz/lineplot.csv')
 
 #VISUALIZATION
 #VIZ 1
