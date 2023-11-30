@@ -1,0 +1,17 @@
+season,scale,casual,registered,total,xseason
+Spring,Low,0,0,0,Spring-Low
+Summer,Low,0,0,0,Summer-Low
+Fall,Low,0,0,0,Fall-Low
+Winter,Low,0,0,0,Winter-Low
+Spring,Med,38386,239695,278081,Spring-Med
+Summer,Med,38299,171263,209562,Summer-Med
+Fall,Med,1383,9372,10755,Fall-Med
+Winter,Med,62555,427264,489819,Winter-Med
+Spring,Hi,12741,49464,62205,Spring-Hi
+Summer,Hi,138541,463101,601642,Summer-Hi
+Fall,Hi,115040,486396,601436,Fall-Hi
+Winter,Hi,63803,251870,315673,Winter-Hi
+Spring,V. High,0,0,0,Spring-V. High
+Summer,V. High,0,0,0,Summer-V. High
+Fall,V. High,0,0,0,Fall-V. High
+Winter,V. High,0,0,0,Winter-V. High
