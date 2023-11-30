@@ -8,8 +8,8 @@ import plotly.express as px
 st.title('POLA PENGGUNAAN CUSTOMER')
 
 #LOAD DATAFRAME
-viz_linecas = pd.read_csv('bikesharing/viz/lineplot_casual.csv')
-viz_linereg = pd.read_csv('bikesharing/viz/lineplot_regist.csv')
+viz_linecas = pd.read_csv('viz/lineplot_casual.csv')
+viz_linereg = pd.read_csv('viz/lineplot_regist.csv')
 
 #VISUALIZATION
 #LINECHART CASUAL HOUR USAGE
